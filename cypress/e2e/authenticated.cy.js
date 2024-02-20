@@ -4,7 +4,7 @@ describe('Scenarios where authentication is a pre-condition', () => {
   beforeEach(() => {
     cy.intercept('GET', '**/notes').as('getNotes')
     cy.sessionLogin()
-    
+
   })
 
   it('CRUDs a note', () => {
