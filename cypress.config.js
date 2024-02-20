@@ -9,9 +9,6 @@ module.exports = defineConfig({
     },
     requestTimeout: 50000,
     defaultCommandTimeout: 50000,
-    //setupNodeEvents(on, config) {
-    // implement node event listeners here
-    //},
-  },
+  }
   projectId: 'hh9rfs',
 })
