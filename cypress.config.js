@@ -7,8 +7,6 @@ module.exports = defineConfig({
     env: {
       viewportWidthBreakpoint: 768,
     },
-    requestTimeout: 50000,
-    defaultCommandTimeout: 50000,
   },
   projectId: 'hh9rfs',
 })
