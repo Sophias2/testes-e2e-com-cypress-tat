@@ -45,4 +45,4 @@ Run `npm run cy:open:tablet` to open the __Cypress App__ to run tests in interac
 
 ___
 
-Made with ❤️ by [Sophia](https://your-web-site-or-github-profile-here).
+Made with ❤️ by [Sophia](https://github.com/Sophias2).
